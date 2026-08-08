@@ -1,0 +1,7133 @@
+{
+  "multiplier": 1,
+  "generatedAt": "2026-08-08T13:35:35.311Z",
+  "data": {
+    "Adaptive Control Unit": [
+      {
+        "name": "Adaptive Control Unit",
+        "products": [
+          {
+            "item": "Adaptive Control Unit",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Automated Wiring",
+            "rate": 5
+          },
+          {
+            "item": "Circuit Board",
+            "rate": 5
+          },
+          {
+            "item": "Heavy Modular Frame",
+            "rate": 1
+          },
+          {
+            "item": "Computer",
+            "rate": 2
+          }
+        ]
+      }
+    ],
+    "AI Expansion Server": [
+      {
+        "name": "AI Expansion Server",
+        "products": [
+          {
+            "item": "AI Expansion Server",
+            "rate": 4
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 100
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Magnetic Field Generator",
+            "rate": 4
+          },
+          {
+            "item": "Neural-Quantum Processor",
+            "rate": 4
+          },
+          {
+            "item": "Superposition Oscillator",
+            "rate": 4
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 100
+          }
+        ]
+      }
+    ],
+    "AI Limiter": [
+      {
+        "name": "AI Limiter",
+        "products": [
+          {
+            "item": "AI Limiter",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Sheet",
+            "rate": 25
+          },
+          {
+            "item": "Quickwire",
+            "rate": 100
+          }
+        ]
+      },
+      {
+        "name": "Alt: Plastic AI Limiter",
+        "products": [
+          {
+            "item": "AI Limiter",
+            "rate": 8
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Quickwire",
+            "rate": 120
+          },
+          {
+            "item": "Plastic",
+            "rate": 28
+          }
+        ]
+      }
+    ],
+    "Alclad Aluminum Sheet": [
+      {
+        "name": "Alclad Aluminum Sheet",
+        "products": [
+          {
+            "item": "Alclad Aluminum Sheet",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Aluminum Ingot",
+            "rate": 30
+          },
+          {
+            "item": "Copper Ingot",
+            "rate": 10
+          }
+        ]
+      }
+    ],
+    "Alien DNA Capsule": [
+      {
+        "name": "Alien DNA Capsule",
+        "products": [
+          {
+            "item": "Alien DNA Capsule",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Alien Protein",
+            "rate": 10
+          }
+        ]
+      }
+    ],
+    "Alien Power Matrix": [
+      {
+        "name": "Alien Power Matrix",
+        "products": [
+          {
+            "item": "Alien Power Matrix",
+            "rate": 2.5
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "SAM Fluctuator",
+            "rate": 12.5
+          },
+          {
+            "item": "Power Shard",
+            "rate": 7.5
+          },
+          {
+            "item": "Superposition Oscillator",
+            "rate": 7.5
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Alien Protein": [
+      {
+        "name": "Hatcher Protein",
+        "products": [
+          {
+            "item": "Alien Protein",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Hatcher Remains",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Hog Protein",
+        "products": [
+          {
+            "item": "Alien Protein",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Hog Remains",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Spitter Protein",
+        "products": [
+          {
+            "item": "Alien Protein",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Spitter Remains",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Stinger Protein",
+        "products": [
+          {
+            "item": "Alien Protein",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Stinger Remains",
+            "rate": 20
+          }
+        ]
+      }
+    ],
+    "Alien Remains": [],
+    "Aluminum Casing": [
+      {
+        "name": "Aluminum Casing",
+        "products": [
+          {
+            "item": "Aluminum Casing",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Aluminum Ingot",
+            "rate": 90
+          }
+        ]
+      },
+      {
+        "name": "Alt: Alclad Casing",
+        "products": [
+          {
+            "item": "Aluminum Casing",
+            "rate": 112.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Aluminum Ingot",
+            "rate": 150
+          },
+          {
+            "item": "Copper Ingot",
+            "rate": 75
+          }
+        ]
+      }
+    ],
+    "Aluminum Ingot": [
+      {
+        "name": "Aluminum Ingot",
+        "products": [
+          {
+            "item": "Aluminum Ingot",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Aluminum Scrap",
+            "rate": 90
+          },
+          {
+            "item": "Silica",
+            "rate": 75
+          }
+        ]
+      },
+      {
+        "name": "Alt: Pure Aluminum Ingot",
+        "products": [
+          {
+            "item": "Aluminum Ingot",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Aluminum Scrap",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Aluminum Scrap": [
+      {
+        "name": "Aluminum Scrap",
+        "products": [
+          {
+            "item": "Aluminum Scrap",
+            "rate": 360
+          },
+          {
+            "item": "Water",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Alumina Solution",
+            "rate": 240
+          },
+          {
+            "item": "Coal",
+            "rate": 120
+          }
+        ]
+      },
+      {
+        "name": "Alt: Electrode Aluminum Scrap",
+        "products": [
+          {
+            "item": "Aluminum Scrap",
+            "rate": 300
+          },
+          {
+            "item": "Water",
+            "rate": 105
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Alumina Solution",
+            "rate": 180
+          },
+          {
+            "item": "Petroleum Coke",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Alt: Instant Scrap",
+        "products": [
+          {
+            "item": "Aluminum Scrap",
+            "rate": 300
+          },
+          {
+            "item": "Water",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Bauxite",
+            "rate": 150
+          },
+          {
+            "item": "Coal",
+            "rate": 100
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 50
+          },
+          {
+            "item": "Water",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Assembly Director System": [
+      {
+        "name": "Assembly Director System",
+        "products": [
+          {
+            "item": "Assembly Director System",
+            "rate": 0.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Adaptive Control Unit",
+            "rate": 1.5
+          },
+          {
+            "item": "Supercomputer",
+            "rate": 0.75
+          }
+        ]
+      }
+    ],
+    "Automated Wiring": [
+      {
+        "name": "Automated Wiring",
+        "products": [
+          {
+            "item": "Automated Wiring",
+            "rate": 2.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Stator",
+            "rate": 2.5
+          },
+          {
+            "item": "Cable",
+            "rate": 50
+          }
+        ]
+      },
+      {
+        "name": "Alt: Automated Speed Wiring",
+        "products": [
+          {
+            "item": "Automated Wiring",
+            "rate": 7.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Stator",
+            "rate": 3.75
+          },
+          {
+            "item": "Wire",
+            "rate": 75
+          },
+          {
+            "item": "High-Speed Connector",
+            "rate": 1.875
+          }
+        ]
+      }
+    ],
+    "Bacon Agaric": [],
+    "Ballistic Warp Drive": [
+      {
+        "name": "Ballistic Warp Drive",
+        "products": [
+          {
+            "item": "Ballistic Warp Drive",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Thermal Propulsion Rocket",
+            "rate": 1
+          },
+          {
+            "item": "Singularity Cell",
+            "rate": 5
+          },
+          {
+            "item": "Superposition Oscillator",
+            "rate": 2
+          },
+          {
+            "item": "Dark Matter Crystal",
+            "rate": 40
+          }
+        ]
+      }
+    ],
+    "Battery": [
+      {
+        "name": "Battery",
+        "products": [
+          {
+            "item": "Battery",
+            "rate": 20
+          },
+          {
+            "item": "Water",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Sulfuric Acid",
+            "rate": 50
+          },
+          {
+            "item": "Alumina Solution",
+            "rate": 40
+          },
+          {
+            "item": "Aluminum Casing",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Alt: Classic Battery",
+        "products": [
+          {
+            "item": "Battery",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Sulfur",
+            "rate": 45
+          },
+          {
+            "item": "Alclad Aluminum Sheet",
+            "rate": 52.5
+          },
+          {
+            "item": "Plastic",
+            "rate": 60
+          },
+          {
+            "item": "Wire",
+            "rate": 90
+          }
+        ]
+      }
+    ],
+    "Bauxite": [
+      {
+        "name": "Bauxite (Caterium)",
+        "products": [
+          {
+            "item": "Bauxite",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Caterium Ore",
+            "rate": 150
+          }
+        ]
+      },
+      {
+        "name": "Bauxite (Copper)",
+        "products": [
+          {
+            "item": "Bauxite",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Copper Ore",
+            "rate": 180
+          }
+        ]
+      }
+    ],
+    "Beacon": [],
+    "Beryl Nut": [],
+    "Biochemical Sculptor": [
+      {
+        "name": "Biochemical Sculptor",
+        "products": [
+          {
+            "item": "Biochemical Sculptor",
+            "rate": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Assembly Director System",
+            "rate": 0.5
+          },
+          {
+            "item": "Ficsite Trigon",
+            "rate": 40
+          },
+          {
+            "item": "Water",
+            "rate": 10
+          }
+        ]
+      }
+    ],
+    "Biomass": [
+      {
+        "name": "Biomass (Alien Protein)",
+        "products": [
+          {
+            "item": "Biomass",
+            "rate": 1500
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Alien Protein",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Biomass (Leaves)",
+        "products": [
+          {
+            "item": "Biomass",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Leaves",
+            "rate": 120
+          }
+        ]
+      },
+      {
+        "name": "Biomass (Mycelia)",
+        "products": [
+          {
+            "item": "Biomass",
+            "rate": 150
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Mycelia",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Biomass (Wood)",
+        "products": [
+          {
+            "item": "Biomass",
+            "rate": 300
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Wood",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Black Powder": [
+      {
+        "name": "Black Powder",
+        "products": [
+          {
+            "item": "Black Powder",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Coal",
+            "rate": 15
+          },
+          {
+            "item": "Sulfur",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Alt: Fine Black Powder",
+        "products": [
+          {
+            "item": "Black Powder",
+            "rate": 45
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Sulfur",
+            "rate": 7.5
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 15
+          }
+        ]
+      }
+    ],
+    "Blade Runners": [
+      {
+        "name": "Blade Runners",
+        "products": [
+          {
+            "item": "Blade Runners",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Silica",
+            "rate": 20
+          },
+          {
+            "item": "Modular Frame",
+            "rate": 3
+          },
+          {
+            "item": "Rotor",
+            "rate": 3
+          }
+        ]
+      }
+    ],
+    "Boom Box": [],
+    "Cable": [
+      {
+        "name": "Cable",
+        "products": [
+          {
+            "item": "Cable",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Wire",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Alt: Coated Cable",
+        "products": [
+          {
+            "item": "Cable",
+            "rate": 67.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Wire",
+            "rate": 37.5
+          },
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Alt: Insulated Cable",
+        "products": [
+          {
+            "item": "Cable",
+            "rate": 100
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Wire",
+            "rate": 45
+          },
+          {
+            "item": "Rubber",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Alt: Quickwire Cable",
+        "products": [
+          {
+            "item": "Cable",
+            "rate": 27.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Quickwire",
+            "rate": 7.5
+          },
+          {
+            "item": "Rubber",
+            "rate": 5
+          }
+        ]
+      }
+    ],
+    "Caterium Ingot": [
+      {
+        "name": "Caterium Ingot",
+        "products": [
+          {
+            "item": "Caterium Ingot",
+            "rate": 15
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Caterium Ore",
+            "rate": 45
+          }
+        ]
+      },
+      {
+        "name": "Alt: Leached Caterium Ingot",
+        "products": [
+          {
+            "item": "Caterium Ingot",
+            "rate": 36
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Caterium Ore",
+            "rate": 54
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Alt: Pure Caterium Ingot",
+        "products": [
+          {
+            "item": "Caterium Ingot",
+            "rate": 12
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Caterium Ore",
+            "rate": 24
+          },
+          {
+            "item": "Water",
+            "rate": 24
+          }
+        ]
+      },
+      {
+        "name": "Alt: Tempered Caterium Ingot",
+        "products": [
+          {
+            "item": "Caterium Ingot",
+            "rate": 22.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Caterium Ore",
+            "rate": 45
+          },
+          {
+            "item": "Petroleum Coke",
+            "rate": 15
+          }
+        ]
+      }
+    ],
+    "Caterium Ore": [
+      {
+        "name": "Caterium Ore (Copper)",
+        "products": [
+          {
+            "item": "Caterium Ore",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Copper Ore",
+            "rate": 150
+          }
+        ]
+      },
+      {
+        "name": "Caterium Ore (Quartz)",
+        "products": [
+          {
+            "item": "Caterium Ore",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Raw Quartz",
+            "rate": 120
+          }
+        ]
+      }
+    ],
+    "Chainsaw": [
+      {
+        "name": "Chainsaw",
+        "products": [
+          {
+            "item": "Chainsaw",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 5
+          },
+          {
+            "item": "Iron Rod",
+            "rate": 25
+          },
+          {
+            "item": "Screws",
+            "rate": 160
+          },
+          {
+            "item": "Cable",
+            "rate": 15
+          }
+        ]
+      }
+    ],
+    "Circuit Board": [
+      {
+        "name": "Circuit Board",
+        "products": [
+          {
+            "item": "Circuit Board",
+            "rate": 7.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Sheet",
+            "rate": 15
+          },
+          {
+            "item": "Plastic",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Alt: Caterium Circuit Board",
+        "products": [
+          {
+            "item": "Circuit Board",
+            "rate": 8.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Plastic",
+            "rate": 12.5
+          },
+          {
+            "item": "Quickwire",
+            "rate": 37.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Electrode Circuit Board",
+        "products": [
+          {
+            "item": "Circuit Board",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Rubber",
+            "rate": 20
+          },
+          {
+            "item": "Petroleum Coke",
+            "rate": 40
+          }
+        ]
+      },
+      {
+        "name": "Alt: Silicon Circuit Board",
+        "products": [
+          {
+            "item": "Circuit Board",
+            "rate": 12.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Sheet",
+            "rate": 27.5
+          },
+          {
+            "item": "Silica",
+            "rate": 27.5
+          }
+        ]
+      }
+    ],
+    "Coal": [
+      {
+        "name": "Biocoal",
+        "products": [
+          {
+            "item": "Coal",
+            "rate": 45
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Biomass",
+            "rate": 37.5
+          }
+        ]
+      },
+      {
+        "name": "Charcoal",
+        "products": [
+          {
+            "item": "Coal",
+            "rate": 150
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Wood",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Coal (Iron)",
+        "products": [
+          {
+            "item": "Coal",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Iron Ore",
+            "rate": 180
+          }
+        ]
+      },
+      {
+        "name": "Coal (Limestone)",
+        "products": [
+          {
+            "item": "Coal",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Limestone",
+            "rate": 360
+          }
+        ]
+      }
+    ],
+    "Color Cartridge": [],
+    "Compacted Coal": [
+      {
+        "name": "Compacted Coal",
+        "products": [
+          {
+            "item": "Compacted Coal",
+            "rate": 25
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Coal",
+            "rate": 25
+          },
+          {
+            "item": "Sulfur",
+            "rate": 25
+          }
+        ]
+      },
+      {
+        "name": "Ionized Fuel As byproduct",
+        "products": [
+          {
+            "item": "Ionized Fuel",
+            "rate": 40
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Rocket Fuel",
+            "rate": 40
+          },
+          {
+            "item": "Power Shard",
+            "rate": 2.5
+          }
+        ]
+      },
+      {
+        "name": "Rocket Fuel As byproduct",
+        "products": [
+          {
+            "item": "Rocket Fuel",
+            "rate": 100
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Turbofuel",
+            "rate": 60
+          },
+          {
+            "item": "Nitric Acid",
+            "rate": 10
+          }
+        ]
+      },
+      {
+        "name": "Alt: Dark-Ion Fuel As byproduct",
+        "products": [
+          {
+            "item": "Ionized Fuel",
+            "rate": 200
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Rocket Fuel",
+            "rate": 240
+          },
+          {
+            "item": "Dark Matter Crystal",
+            "rate": 80
+          }
+        ]
+      },
+      {
+        "name": "Alt: Nitro Rocket Fuel As byproduct",
+        "products": [
+          {
+            "item": "Rocket Fuel",
+            "rate": 150
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 25
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Fuel",
+            "rate": 100
+          },
+          {
+            "item": "Nitrogen Gas",
+            "rate": 75
+          },
+          {
+            "item": "Sulfur",
+            "rate": 100
+          },
+          {
+            "item": "Coal",
+            "rate": 50
+          }
+        ]
+      }
+    ],
+    "Computer": [
+      {
+        "name": "Computer",
+        "products": [
+          {
+            "item": "Computer",
+            "rate": 2.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Circuit Board",
+            "rate": 10
+          },
+          {
+            "item": "Cable",
+            "rate": 20
+          },
+          {
+            "item": "Plastic",
+            "rate": 40
+          }
+        ]
+      },
+      {
+        "name": "Alt: Caterium Computer",
+        "products": [
+          {
+            "item": "Computer",
+            "rate": 3.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Circuit Board",
+            "rate": 15
+          },
+          {
+            "item": "Quickwire",
+            "rate": 52.5
+          },
+          {
+            "item": "Rubber",
+            "rate": 22.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Crystal Computer",
+        "products": [
+          {
+            "item": "Computer",
+            "rate": 3.33333
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Circuit Board",
+            "rate": 5
+          },
+          {
+            "item": "Crystal Oscillator",
+            "rate": 1.66667
+          }
+        ]
+      }
+    ],
+    "Concrete": [
+      {
+        "name": "Concrete",
+        "products": [
+          {
+            "item": "Concrete",
+            "rate": 15
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Limestone",
+            "rate": 45
+          }
+        ]
+      },
+      {
+        "name": "Alt: Fine Concrete",
+        "products": [
+          {
+            "item": "Concrete",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Silica",
+            "rate": 15
+          },
+          {
+            "item": "Limestone",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Alt: Rubber Concrete",
+        "products": [
+          {
+            "item": "Concrete",
+            "rate": 90
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Limestone",
+            "rate": 100
+          },
+          {
+            "item": "Rubber",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Alt: Wet Concrete",
+        "products": [
+          {
+            "item": "Concrete",
+            "rate": 80
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Limestone",
+            "rate": 120
+          },
+          {
+            "item": "Water",
+            "rate": 100
+          }
+        ]
+      }
+    ],
+    "Cooling System": [
+      {
+        "name": "Cooling System",
+        "products": [
+          {
+            "item": "Cooling System",
+            "rate": 6
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Heat Sink",
+            "rate": 12
+          },
+          {
+            "item": "Rubber",
+            "rate": 12
+          },
+          {
+            "item": "Water",
+            "rate": 30
+          },
+          {
+            "item": "Nitrogen Gas",
+            "rate": 150
+          }
+        ]
+      },
+      {
+        "name": "Alt: Cooling Device",
+        "products": [
+          {
+            "item": "Cooling System",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Heat Sink",
+            "rate": 10
+          },
+          {
+            "item": "Motor",
+            "rate": 2.5
+          },
+          {
+            "item": "Nitrogen Gas",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Copper Ingot": [
+      {
+        "name": "Copper Ingot",
+        "products": [
+          {
+            "item": "Copper Ingot",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Ore",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Alt: Copper Alloy Ingot",
+        "products": [
+          {
+            "item": "Copper Ingot",
+            "rate": 100
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Ore",
+            "rate": 50
+          },
+          {
+            "item": "Iron Ore",
+            "rate": 50
+          }
+        ]
+      },
+      {
+        "name": "Alt: Leached Copper Ingot",
+        "products": [
+          {
+            "item": "Copper Ingot",
+            "rate": 110
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Ore",
+            "rate": 45
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 25
+          }
+        ]
+      },
+      {
+        "name": "Alt: Pure Copper Ingot",
+        "products": [
+          {
+            "item": "Copper Ingot",
+            "rate": 37.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Ore",
+            "rate": 15
+          },
+          {
+            "item": "Water",
+            "rate": 10
+          }
+        ]
+      },
+      {
+        "name": "Alt: Tempered Copper Ingot",
+        "products": [
+          {
+            "item": "Copper Ingot",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Ore",
+            "rate": 25
+          },
+          {
+            "item": "Petroleum Coke",
+            "rate": 40
+          }
+        ]
+      }
+    ],
+    "Copper Ore": [
+      {
+        "name": "Copper Ore (Quartz)",
+        "products": [
+          {
+            "item": "Copper Ore",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Raw Quartz",
+            "rate": 100
+          }
+        ]
+      },
+      {
+        "name": "Copper Ore (Sulfur)",
+        "products": [
+          {
+            "item": "Copper Ore",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Sulfur",
+            "rate": 120
+          }
+        ]
+      }
+    ],
+    "Copper Powder": [
+      {
+        "name": "Copper Powder",
+        "products": [
+          {
+            "item": "Copper Powder",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Ingot",
+            "rate": 300
+          }
+        ]
+      }
+    ],
+    "Copper Sheet": [
+      {
+        "name": "Copper Sheet",
+        "products": [
+          {
+            "item": "Copper Sheet",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Ingot",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Alt: Steamed Copper Sheet",
+        "products": [
+          {
+            "item": "Copper Sheet",
+            "rate": 22.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Ingot",
+            "rate": 22.5
+          },
+          {
+            "item": "Water",
+            "rate": 22.5
+          }
+        ]
+      }
+    ],
+    "Crude Oil": [
+      {
+        "name": "Unpackage Oil",
+        "products": [
+          {
+            "item": "Crude Oil",
+            "rate": 60
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Oil",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Crystal Oscillator": [
+      {
+        "name": "Crystal Oscillator",
+        "products": [
+          {
+            "item": "Crystal Oscillator",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Quartz Crystal",
+            "rate": 18
+          },
+          {
+            "item": "Cable",
+            "rate": 14
+          },
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 2.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Insulated Crystal Oscillator",
+        "products": [
+          {
+            "item": "Crystal Oscillator",
+            "rate": 1.875
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Quartz Crystal",
+            "rate": 18.75
+          },
+          {
+            "item": "Rubber",
+            "rate": 13.125
+          },
+          {
+            "item": "AI Limiter",
+            "rate": 1.875
+          }
+        ]
+      }
+    ],
+    "Cup": [],
+    "Dark Matter Crystal": [
+      {
+        "name": "Dark Matter Crystal",
+        "products": [
+          {
+            "item": "Dark Matter Crystal",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Diamonds",
+            "rate": 30
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 150
+          }
+        ]
+      },
+      {
+        "name": "Alt: Dark Matter Crystallization",
+        "products": [
+          {
+            "item": "Dark Matter Crystal",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Dark Matter Residue",
+            "rate": 200
+          }
+        ]
+      },
+      {
+        "name": "Alt: Dark Matter Trap",
+        "products": [
+          {
+            "item": "Dark Matter Crystal",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Time Crystal",
+            "rate": 30
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 150
+          }
+        ]
+      }
+    ],
+    "Diamonds": [
+      {
+        "name": "Diamonds",
+        "products": [
+          {
+            "item": "Diamonds",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Coal",
+            "rate": 600
+          }
+        ]
+      },
+      {
+        "name": "Alt: Cloudy Diamonds",
+        "products": [
+          {
+            "item": "Diamonds",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Coal",
+            "rate": 240
+          },
+          {
+            "item": "Limestone",
+            "rate": 480
+          }
+        ]
+      },
+      {
+        "name": "Alt: Oil-Based Diamonds",
+        "products": [
+          {
+            "item": "Diamonds",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 200
+          }
+        ]
+      },
+      {
+        "name": "Alt: Petroleum Diamonds",
+        "products": [
+          {
+            "item": "Diamonds",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Petroleum Coke",
+            "rate": 720
+          }
+        ]
+      },
+      {
+        "name": "Alt: Pink Diamonds",
+        "products": [
+          {
+            "item": "Diamonds",
+            "rate": 15
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Coal",
+            "rate": 120
+          },
+          {
+            "item": "Quartz Crystal",
+            "rate": 45
+          }
+        ]
+      },
+      {
+        "name": "Alt: Turbo Diamonds",
+        "products": [
+          {
+            "item": "Diamonds",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Coal",
+            "rate": 600
+          },
+          {
+            "item": "Packaged Turbofuel",
+            "rate": 40
+          }
+        ]
+      }
+    ],
+    "Electromagnetic Control Rod": [
+      {
+        "name": "Electromagnetic Control Rod",
+        "products": [
+          {
+            "item": "Electromagnetic Control Rod",
+            "rate": 4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Stator",
+            "rate": 6
+          },
+          {
+            "item": "AI Limiter",
+            "rate": 4
+          }
+        ]
+      },
+      {
+        "name": "Alt: Electromagnetic Connection Rod",
+        "products": [
+          {
+            "item": "Electromagnetic Control Rod",
+            "rate": 8
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Stator",
+            "rate": 8
+          },
+          {
+            "item": "High-Speed Connector",
+            "rate": 4
+          }
+        ]
+      }
+    ],
+    "Empty Canister": [
+      {
+        "name": "Empty Canister",
+        "products": [
+          {
+            "item": "Empty Canister",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Plastic",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Alumina Solution As byproduct",
+        "products": [
+          {
+            "item": "Alumina Solution",
+            "rate": 120
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Alumina Solution",
+            "rate": 120
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Fuel As byproduct",
+        "products": [
+          {
+            "item": "Fuel",
+            "rate": 60
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Fuel",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Heavy Oil Residue As byproduct",
+        "products": [
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 20
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Heavy Oil Residue",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Liquid Biofuel As byproduct",
+        "products": [
+          {
+            "item": "Liquid Biofuel",
+            "rate": 60
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Liquid Biofuel",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Oil As byproduct",
+        "products": [
+          {
+            "item": "Crude Oil",
+            "rate": 60
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Oil",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Sulfuric Acid As byproduct",
+        "products": [
+          {
+            "item": "Sulfuric Acid",
+            "rate": 60
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Sulfuric Acid",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Turbofuel As byproduct",
+        "products": [
+          {
+            "item": "Turbofuel",
+            "rate": 20
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Turbofuel",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Water As byproduct",
+        "products": [
+          {
+            "item": "Water",
+            "rate": 120
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Water",
+            "rate": 120
+          }
+        ]
+      },
+      {
+        "name": "Alt: Coated Iron Canister",
+        "products": [
+          {
+            "item": "Empty Canister",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Plate",
+            "rate": 30
+          },
+          {
+            "item": "Copper Sheet",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Alt: Steel Canister",
+        "products": [
+          {
+            "item": "Empty Canister",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Ingot",
+            "rate": 40
+          }
+        ]
+      }
+    ],
+    "Empty Fluid Tank": [
+      {
+        "name": "Empty Fluid Tank",
+        "products": [
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Aluminum Ingot",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Ionized Fuel As byproduct",
+        "products": [
+          {
+            "item": "Ionized Fuel",
+            "rate": 80
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Ionized Fuel",
+            "rate": 40
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Nitric Acid As byproduct",
+        "products": [
+          {
+            "item": "Nitric Acid",
+            "rate": 20
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Nitric Acid",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Nitrogen Gas As byproduct",
+        "products": [
+          {
+            "item": "Nitrogen Gas",
+            "rate": 240
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Nitrogen Gas",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Rocket Fuel As byproduct",
+        "products": [
+          {
+            "item": "Rocket Fuel",
+            "rate": 120
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Rocket Fuel",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Encased Industrial Beam": [
+      {
+        "name": "Encased Industrial Beam",
+        "products": [
+          {
+            "item": "Encased Industrial Beam",
+            "rate": 6
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Beam",
+            "rate": 18
+          },
+          {
+            "item": "Concrete",
+            "rate": 36
+          }
+        ]
+      },
+      {
+        "name": "Alt: Encased Industrial Pipe",
+        "products": [
+          {
+            "item": "Encased Industrial Beam",
+            "rate": 4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Pipe",
+            "rate": 24
+          },
+          {
+            "item": "Concrete",
+            "rate": 20
+          }
+        ]
+      }
+    ],
+    "Encased Plutonium Cell": [
+      {
+        "name": "Encased Plutonium Cell",
+        "products": [
+          {
+            "item": "Encased Plutonium Cell",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Plutonium Pellet",
+            "rate": 10
+          },
+          {
+            "item": "Concrete",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Alt: Instant Plutonium Cell",
+        "products": [
+          {
+            "item": "Encased Plutonium Cell",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Non-Fissile Uranium",
+            "rate": 75
+          },
+          {
+            "item": "Aluminum Casing",
+            "rate": 10
+          }
+        ]
+      }
+    ],
+    "Encased Uranium Cell": [
+      {
+        "name": "Encased Uranium Cell",
+        "products": [
+          {
+            "item": "Encased Uranium Cell",
+            "rate": 25
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Uranium",
+            "rate": 50
+          },
+          {
+            "item": "Concrete",
+            "rate": 15
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 40
+          }
+        ]
+      },
+      {
+        "name": "Alt: Infused Uranium Cell",
+        "products": [
+          {
+            "item": "Encased Uranium Cell",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Uranium",
+            "rate": 25
+          },
+          {
+            "item": "Silica",
+            "rate": 15
+          },
+          {
+            "item": "Sulfur",
+            "rate": 25
+          },
+          {
+            "item": "Quickwire",
+            "rate": 75
+          }
+        ]
+      }
+    ],
+    "Fabric": [
+      {
+        "name": "Fabric",
+        "products": [
+          {
+            "item": "Fabric",
+            "rate": 15
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Mycelia",
+            "rate": 15
+          },
+          {
+            "item": "Biomass",
+            "rate": 75
+          }
+        ]
+      },
+      {
+        "name": "Polyester Fabric",
+        "products": [
+          {
+            "item": "Fabric",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Polymer Resin",
+            "rate": 30
+          },
+          {
+            "item": "Water",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "FICSIT Coupon": [],
+    "Ficsite Ingot": [
+      {
+        "name": "Ficsite Ingot (Aluminum)",
+        "products": [
+          {
+            "item": "Ficsite Ingot",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 60
+          },
+          {
+            "item": "Aluminum Ingot",
+            "rate": 120
+          }
+        ]
+      },
+      {
+        "name": "Ficsite Ingot (Caterium)",
+        "products": [
+          {
+            "item": "Ficsite Ingot",
+            "rate": 15
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 45
+          },
+          {
+            "item": "Caterium Ingot",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Ficsite Ingot (Iron)",
+        "products": [
+          {
+            "item": "Ficsite Ingot",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 40
+          },
+          {
+            "item": "Iron Ingot",
+            "rate": 240
+          }
+        ]
+      }
+    ],
+    "Ficsite Trigon": [
+      {
+        "name": "Ficsite Trigon",
+        "products": [
+          {
+            "item": "Ficsite Trigon",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Ficsite Ingot",
+            "rate": 10
+          }
+        ]
+      }
+    ],
+    "Ficsonium": [
+      {
+        "name": "Ficsonium",
+        "products": [
+          {
+            "item": "Ficsonium",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Plutonium Waste",
+            "rate": 10
+          },
+          {
+            "item": "Singularity Cell",
+            "rate": 10
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 200
+          }
+        ]
+      }
+    ],
+    "Ficsonium Fuel Rod": [
+      {
+        "name": "Ficsonium Fuel Rod",
+        "products": [
+          {
+            "item": "Ficsonium Fuel Rod",
+            "rate": 2.5
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Ficsonium",
+            "rate": 5
+          },
+          {
+            "item": "Electromagnetic Control Rod",
+            "rate": 5
+          },
+          {
+            "item": "Ficsite Trigon",
+            "rate": 100
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 50
+          }
+        ]
+      }
+    ],
+    "Flower Petals": [],
+    "Fused Modular Frame": [
+      {
+        "name": "Fused Modular Frame",
+        "products": [
+          {
+            "item": "Fused Modular Frame",
+            "rate": 1.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Heavy Modular Frame",
+            "rate": 1.5
+          },
+          {
+            "item": "Aluminum Casing",
+            "rate": 75
+          },
+          {
+            "item": "Nitrogen Gas",
+            "rate": 37.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Heat-Fused Frame",
+        "products": [
+          {
+            "item": "Fused Modular Frame",
+            "rate": 3
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Heavy Modular Frame",
+            "rate": 3
+          },
+          {
+            "item": "Aluminum Ingot",
+            "rate": 150
+          },
+          {
+            "item": "Nitric Acid",
+            "rate": 24
+          },
+          {
+            "item": "Fuel",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "Gas Mask": [
+      {
+        "name": "Gas Filter",
+        "products": [
+          {
+            "item": "Gas Filter",
+            "rate": 7.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Fabric",
+            "rate": 15
+          },
+          {
+            "item": "Coal",
+            "rate": 30
+          },
+          {
+            "item": "Iron Plate",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Gas Mask",
+        "products": [
+          {
+            "item": "Gas Mask",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Fabric",
+            "rate": 50
+          },
+          {
+            "item": "Copper Sheet",
+            "rate": 10
+          },
+          {
+            "item": "Steel Pipe",
+            "rate": 10
+          }
+        ]
+      }
+    ],
+    "Hard Drive": [],
+    "Hazmat Suit": [
+      {
+        "name": "Hazmat Suit",
+        "products": [
+          {
+            "item": "Hazmat Suit",
+            "rate": 0.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Rubber",
+            "rate": 25
+          },
+          {
+            "item": "Plastic",
+            "rate": 25
+          },
+          {
+            "item": "Alclad Aluminum Sheet",
+            "rate": 25
+          },
+          {
+            "item": "Fabric",
+            "rate": 25
+          }
+        ]
+      },
+      {
+        "name": "Iodine-Infused Filter",
+        "products": [
+          {
+            "item": "Iodine-Infused Filter",
+            "rate": 3.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Gas Filter",
+            "rate": 3.75
+          },
+          {
+            "item": "Quickwire",
+            "rate": 30
+          },
+          {
+            "item": "Aluminum Casing",
+            "rate": 3.75
+          }
+        ]
+      }
+    ],
+    "Heat Sink": [
+      {
+        "name": "Heat Sink",
+        "products": [
+          {
+            "item": "Heat Sink",
+            "rate": 7.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Alclad Aluminum Sheet",
+            "rate": 37.5
+          },
+          {
+            "item": "Copper Sheet",
+            "rate": 22.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Heat Exchanger",
+        "products": [
+          {
+            "item": "Heat Sink",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Aluminum Casing",
+            "rate": 30
+          },
+          {
+            "item": "Rubber",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "Heavy Modular Frame": [
+      {
+        "name": "Heavy Modular Frame",
+        "products": [
+          {
+            "item": "Heavy Modular Frame",
+            "rate": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Modular Frame",
+            "rate": 10
+          },
+          {
+            "item": "Steel Pipe",
+            "rate": 40
+          },
+          {
+            "item": "Encased Industrial Beam",
+            "rate": 10
+          },
+          {
+            "item": "Screws",
+            "rate": 240
+          }
+        ]
+      },
+      {
+        "name": "Alt: Heavy Encased Frame",
+        "products": [
+          {
+            "item": "Heavy Modular Frame",
+            "rate": 2.8125
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Modular Frame",
+            "rate": 7.5
+          },
+          {
+            "item": "Encased Industrial Beam",
+            "rate": 9.375
+          },
+          {
+            "item": "Steel Pipe",
+            "rate": 33.75
+          },
+          {
+            "item": "Concrete",
+            "rate": 20.625
+          }
+        ]
+      },
+      {
+        "name": "Alt: Heavy Flexible Frame",
+        "products": [
+          {
+            "item": "Heavy Modular Frame",
+            "rate": 3.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Modular Frame",
+            "rate": 18.75
+          },
+          {
+            "item": "Encased Industrial Beam",
+            "rate": 11.25
+          },
+          {
+            "item": "Rubber",
+            "rate": 75
+          },
+          {
+            "item": "Screws",
+            "rate": 390
+          }
+        ]
+      }
+    ],
+    "High-Speed Connector": [
+      {
+        "name": "High-Speed Connector",
+        "products": [
+          {
+            "item": "High-Speed Connector",
+            "rate": 3.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Quickwire",
+            "rate": 210
+          },
+          {
+            "item": "Cable",
+            "rate": 37.5
+          },
+          {
+            "item": "Circuit Board",
+            "rate": 3.75
+          }
+        ]
+      },
+      {
+        "name": "Alt: Silicon High-Speed Connector",
+        "products": [
+          {
+            "item": "High-Speed Connector",
+            "rate": 3
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Quickwire",
+            "rate": 90
+          },
+          {
+            "item": "Silica",
+            "rate": 37.5
+          },
+          {
+            "item": "Circuit Board",
+            "rate": 3
+          }
+        ]
+      }
+    ],
+    "Hoverpack": [
+      {
+        "name": "Hoverpack",
+        "products": [
+          {
+            "item": "Hoverpack",
+            "rate": 0.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Motor",
+            "rate": 4
+          },
+          {
+            "item": "Heavy Modular Frame",
+            "rate": 2
+          },
+          {
+            "item": "Computer",
+            "rate": 4
+          },
+          {
+            "item": "Alclad Aluminum Sheet",
+            "rate": 20
+          }
+        ]
+      }
+    ],
+    "HUB Parts": [],
+    "Iron Ingot": [
+      {
+        "name": "Iron Ingot",
+        "products": [
+          {
+            "item": "Iron Ingot",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ore",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Alt: Basic Iron Ingot",
+        "products": [
+          {
+            "item": "Iron Ingot",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ore",
+            "rate": 25
+          },
+          {
+            "item": "Limestone",
+            "rate": 40
+          }
+        ]
+      },
+      {
+        "name": "Alt: Iron Alloy Ingot",
+        "products": [
+          {
+            "item": "Iron Ingot",
+            "rate": 75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ore",
+            "rate": 40
+          },
+          {
+            "item": "Copper Ore",
+            "rate": 10
+          }
+        ]
+      },
+      {
+        "name": "Alt: Leached Iron Ingot",
+        "products": [
+          {
+            "item": "Iron Ingot",
+            "rate": 100
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ore",
+            "rate": 50
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 10
+          }
+        ]
+      },
+      {
+        "name": "Alt: Pure Iron Ingot",
+        "products": [
+          {
+            "item": "Iron Ingot",
+            "rate": 65
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ore",
+            "rate": 35
+          },
+          {
+            "item": "Water",
+            "rate": 20
+          }
+        ]
+      }
+    ],
+    "Iron Ore": [
+      {
+        "name": "Iron Ore (Limestone)",
+        "products": [
+          {
+            "item": "Iron Ore",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Limestone",
+            "rate": 240
+          }
+        ]
+      }
+    ],
+    "Iron Plate": [
+      {
+        "name": "Iron Plate",
+        "products": [
+          {
+            "item": "Iron Plate",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ingot",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Alt: Coated Iron Plate",
+        "products": [
+          {
+            "item": "Iron Plate",
+            "rate": 75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ingot",
+            "rate": 37.5
+          },
+          {
+            "item": "Plastic",
+            "rate": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Steel Cast Plate",
+        "products": [
+          {
+            "item": "Iron Plate",
+            "rate": 45
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ingot",
+            "rate": 15
+          },
+          {
+            "item": "Steel Ingot",
+            "rate": 15
+          }
+        ]
+      }
+    ],
+    "Iron Rod": [
+      {
+        "name": "Iron Rod",
+        "products": [
+          {
+            "item": "Iron Rod",
+            "rate": 15
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ingot",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Alt: Aluminum Rod",
+        "products": [
+          {
+            "item": "Iron Rod",
+            "rate": 52.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Aluminum Ingot",
+            "rate": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Steel Rod",
+        "products": [
+          {
+            "item": "Iron Rod",
+            "rate": 48
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Ingot",
+            "rate": 12
+          }
+        ]
+      }
+    ],
+    "Jetpack": [
+      {
+        "name": "Jetpack",
+        "products": [
+          {
+            "item": "Jetpack",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Motor",
+            "rate": 5
+          },
+          {
+            "item": "Steel Pipe",
+            "rate": 10
+          },
+          {
+            "item": "Iron Plate",
+            "rate": 25
+          },
+          {
+            "item": "Wire",
+            "rate": 50
+          }
+        ]
+      }
+    ],
+    "Leaves": [],
+    "Limestone": [
+      {
+        "name": "Limestone (Sulfur)",
+        "products": [
+          {
+            "item": "Limestone",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Sulfur",
+            "rate": 20
+          }
+        ]
+      }
+    ],
+    "Magnetic Field Generator": [
+      {
+        "name": "Magnetic Field Generator",
+        "products": [
+          {
+            "item": "Magnetic Field Generator",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Versatile Framework",
+            "rate": 2.5
+          },
+          {
+            "item": "Electromagnetic Control Rod",
+            "rate": 1
+          }
+        ]
+      }
+    ],
+    "Medicinal Inhaler": [
+      {
+        "name": "Nutritional Inhaler",
+        "products": [
+          {
+            "item": "Medicinal Inhaler",
+            "rate": 3
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Bacon Agaric",
+            "rate": 3
+          },
+          {
+            "item": "Paleberry",
+            "rate": 6
+          },
+          {
+            "item": "Beryl Nut",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Protein Inhaler",
+        "products": [
+          {
+            "item": "Medicinal Inhaler",
+            "rate": 3
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Alien Protein",
+            "rate": 3
+          },
+          {
+            "item": "Beryl Nut",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Therapeutic Inhaler",
+        "products": [
+          {
+            "item": "Medicinal Inhaler",
+            "rate": 3
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Mycelia",
+            "rate": 45
+          },
+          {
+            "item": "Alien Protein",
+            "rate": 3
+          },
+          {
+            "item": "Bacon Agaric",
+            "rate": 3
+          }
+        ]
+      },
+      {
+        "name": "Vitamin Inhaler",
+        "products": [
+          {
+            "item": "Medicinal Inhaler",
+            "rate": 3
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Mycelia",
+            "rate": 30
+          },
+          {
+            "item": "Paleberry",
+            "rate": 15
+          }
+        ]
+      }
+    ],
+    "Mercer Sphere": [],
+    "Miner": [
+      {
+        "name": "Portable Miner",
+        "products": [
+          {
+            "item": "Portable Miner",
+            "rate": 1.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Plate",
+            "rate": 3
+          },
+          {
+            "item": "Iron Rod",
+            "rate": 6
+          }
+        ]
+      },
+      {
+        "name": "Alt: Automated Miner",
+        "products": [
+          {
+            "item": "Portable Miner",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Pipe",
+            "rate": 4
+          },
+          {
+            "item": "Iron Plate",
+            "rate": 4
+          }
+        ]
+      }
+    ],
+    "Modular Engine": [
+      {
+        "name": "Modular Engine",
+        "products": [
+          {
+            "item": "Modular Engine",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Motor",
+            "rate": 2
+          },
+          {
+            "item": "Rubber",
+            "rate": 15
+          },
+          {
+            "item": "Smart Plating",
+            "rate": 2
+          }
+        ]
+      }
+    ],
+    "Modular Frame": [
+      {
+        "name": "Modular Frame",
+        "products": [
+          {
+            "item": "Modular Frame",
+            "rate": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 3
+          },
+          {
+            "item": "Iron Rod",
+            "rate": 12
+          }
+        ]
+      },
+      {
+        "name": "Alt: Bolted Frame",
+        "products": [
+          {
+            "item": "Modular Frame",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 7.5
+          },
+          {
+            "item": "Screws",
+            "rate": 140
+          }
+        ]
+      },
+      {
+        "name": "Alt: Steeled Frame",
+        "products": [
+          {
+            "item": "Modular Frame",
+            "rate": 3
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 2
+          },
+          {
+            "item": "Steel Pipe",
+            "rate": 10
+          }
+        ]
+      }
+    ],
+    "Motor": [
+      {
+        "name": "Motor",
+        "products": [
+          {
+            "item": "Motor",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Rotor",
+            "rate": 10
+          },
+          {
+            "item": "Stator",
+            "rate": 10
+          }
+        ]
+      },
+      {
+        "name": "Alt: Electric Motor",
+        "products": [
+          {
+            "item": "Motor",
+            "rate": 7.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Electromagnetic Control Rod",
+            "rate": 3.75
+          },
+          {
+            "item": "Rotor",
+            "rate": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Rigor Motor",
+        "products": [
+          {
+            "item": "Motor",
+            "rate": 7.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Rotor",
+            "rate": 3.75
+          },
+          {
+            "item": "Stator",
+            "rate": 3.75
+          },
+          {
+            "item": "Crystal Oscillator",
+            "rate": 1.25
+          }
+        ]
+      }
+    ],
+    "Mycelia": [],
+    "Neural-Quantum Processor": [
+      {
+        "name": "Neural-Quantum Processor",
+        "products": [
+          {
+            "item": "Neural-Quantum Processor",
+            "rate": 3
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Time Crystal",
+            "rate": 15
+          },
+          {
+            "item": "Supercomputer",
+            "rate": 3
+          },
+          {
+            "item": "Ficsite Trigon",
+            "rate": 45
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 75
+          }
+        ]
+      }
+    ],
+    "Nobelisk Detonator": [
+      {
+        "name": "Cluster Nobelisk",
+        "products": [
+          {
+            "item": "Cluster Nobelisk",
+            "rate": 2.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Nobelisk",
+            "rate": 7.5
+          },
+          {
+            "item": "Smokeless Powder",
+            "rate": 10
+          }
+        ]
+      },
+      {
+        "name": "Gas Nobelisk",
+        "products": [
+          {
+            "item": "Gas Nobelisk",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Nobelisk",
+            "rate": 5
+          },
+          {
+            "item": "Biomass",
+            "rate": 50
+          }
+        ]
+      },
+      {
+        "name": "Nobelisk",
+        "products": [
+          {
+            "item": "Nobelisk",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Black Powder",
+            "rate": 20
+          },
+          {
+            "item": "Steel Pipe",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Nobelisk Detonator",
+        "products": [
+          {
+            "item": "Nobelisk Detonator",
+            "rate": 0.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Object Scanner",
+            "rate": 0.75
+          },
+          {
+            "item": "Steel Beam",
+            "rate": 7.5
+          },
+          {
+            "item": "Cable",
+            "rate": 37.5
+          }
+        ]
+      },
+      {
+        "name": "Nuke Nobelisk",
+        "products": [
+          {
+            "item": "Nuke Nobelisk",
+            "rate": 0.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Nobelisk",
+            "rate": 2.5
+          },
+          {
+            "item": "Encased Uranium Cell",
+            "rate": 10
+          },
+          {
+            "item": "Smokeless Powder",
+            "rate": 5
+          },
+          {
+            "item": "AI Limiter",
+            "rate": 3
+          }
+        ]
+      },
+      {
+        "name": "Pulse Nobelisk",
+        "products": [
+          {
+            "item": "Pulse Nobelisk",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Nobelisk",
+            "rate": 5
+          },
+          {
+            "item": "Crystal Oscillator",
+            "rate": 1
+          }
+        ]
+      }
+    ],
+    "Non-Fissile Uranium": [
+      {
+        "name": "Non-Fissile Uranium",
+        "products": [
+          {
+            "item": "Non-Fissile Uranium",
+            "rate": 50
+          },
+          {
+            "item": "Water",
+            "rate": 15
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Uranium Waste",
+            "rate": 37.5
+          },
+          {
+            "item": "Silica",
+            "rate": 25
+          },
+          {
+            "item": "Nitric Acid",
+            "rate": 15
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Alt: Fertile Uranium",
+        "products": [
+          {
+            "item": "Non-Fissile Uranium",
+            "rate": 100
+          },
+          {
+            "item": "Water",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Uranium",
+            "rate": 25
+          },
+          {
+            "item": "Uranium Waste",
+            "rate": 25
+          },
+          {
+            "item": "Nitric Acid",
+            "rate": 15
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 25
+          }
+        ]
+      }
+    ],
+    "Nuclear Pasta": [
+      {
+        "name": "Nuclear Pasta",
+        "products": [
+          {
+            "item": "Nuclear Pasta",
+            "rate": 0.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Powder",
+            "rate": 100
+          },
+          {
+            "item": "Pressure Conversion Cube",
+            "rate": 0.5
+          }
+        ]
+      }
+    ],
+    "Object Scanner": [
+      {
+        "name": "Object Scanner",
+        "products": [
+          {
+            "item": "Object Scanner",
+            "rate": 1.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 6
+          },
+          {
+            "item": "Wire",
+            "rate": 30
+          },
+          {
+            "item": "Screws",
+            "rate": 75
+          }
+        ]
+      }
+    ],
+    "Packaged Alumina Solution": [
+      {
+        "name": "Packaged Alumina Solution",
+        "products": [
+          {
+            "item": "Packaged Alumina Solution",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Alumina Solution",
+            "rate": 120
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 120
+          }
+        ]
+      }
+    ],
+    "Packaged Fuel": [
+      {
+        "name": "Packaged Fuel",
+        "products": [
+          {
+            "item": "Packaged Fuel",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Fuel",
+            "rate": 40
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 40
+          }
+        ]
+      },
+      {
+        "name": "Alt: Diluted Packaged Fuel",
+        "products": [
+          {
+            "item": "Packaged Fuel",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 30
+          },
+          {
+            "item": "Packaged Water",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Packaged Heavy Oil Residue": [
+      {
+        "name": "Packaged Heavy Oil Residue",
+        "products": [
+          {
+            "item": "Packaged Heavy Oil Residue",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 30
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "Packaged Ionized Fuel": [
+      {
+        "name": "Packaged Ionized Fuel",
+        "products": [
+          {
+            "item": "Packaged Ionized Fuel",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Ionized Fuel",
+            "rate": 80
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 40
+          }
+        ]
+      }
+    ],
+    "Packaged Liquid Biofuel": [
+      {
+        "name": "Packaged Liquid Biofuel",
+        "products": [
+          {
+            "item": "Packaged Liquid Biofuel",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Liquid Biofuel",
+            "rate": 40
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 40
+          }
+        ]
+      }
+    ],
+    "Packaged Nitric Acid": [
+      {
+        "name": "Packaged Nitric Acid",
+        "products": [
+          {
+            "item": "Packaged Nitric Acid",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Nitric Acid",
+            "rate": 30
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "Packaged Nitrogen Gas": [
+      {
+        "name": "Packaged Nitrogen Gas",
+        "products": [
+          {
+            "item": "Packaged Nitrogen Gas",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Nitrogen Gas",
+            "rate": 240
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Packaged Oil": [
+      {
+        "name": "Packaged Oil",
+        "products": [
+          {
+            "item": "Packaged Oil",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 30
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "Packaged Rocket Fuel": [
+      {
+        "name": "Packaged Rocket Fuel",
+        "products": [
+          {
+            "item": "Packaged Rocket Fuel",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Rocket Fuel",
+            "rate": 120
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Packaged Sulfuric Acid": [
+      {
+        "name": "Packaged Sulfuric Acid",
+        "products": [
+          {
+            "item": "Packaged Sulfuric Acid",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Sulfuric Acid",
+            "rate": 40
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 40
+          }
+        ]
+      }
+    ],
+    "Packaged Turbofuel": [
+      {
+        "name": "Packaged Turbofuel",
+        "products": [
+          {
+            "item": "Packaged Turbofuel",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Turbofuel",
+            "rate": 20
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 20
+          }
+        ]
+      }
+    ],
+    "Packaged Water": [
+      {
+        "name": "Packaged Water",
+        "products": [
+          {
+            "item": "Packaged Water",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Water",
+            "rate": 60
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Paleberry": [],
+    "Parachute": [
+      {
+        "name": "Parachute",
+        "products": [
+          {
+            "item": "Parachute",
+            "rate": 1.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Fabric",
+            "rate": 30
+          },
+          {
+            "item": "Cable",
+            "rate": 15
+          }
+        ]
+      }
+    ],
+    "Petroleum Coke": [
+      {
+        "name": "Petroleum Coke",
+        "products": [
+          {
+            "item": "Petroleum Coke",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 40
+          }
+        ]
+      }
+    ],
+    "Plastic": [
+      {
+        "name": "Plastic",
+        "products": [
+          {
+            "item": "Plastic",
+            "rate": 20
+          },
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Residual Plastic",
+        "products": [
+          {
+            "item": "Plastic",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Polymer Resin",
+            "rate": 60
+          },
+          {
+            "item": "Water",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Alt: Recycled Plastic",
+        "products": [
+          {
+            "item": "Plastic",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Rubber",
+            "rate": 30
+          },
+          {
+            "item": "Fuel",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "Plutonium Fuel Rod": [
+      {
+        "name": "Plutonium Fuel Rod",
+        "products": [
+          {
+            "item": "Plutonium Fuel Rod",
+            "rate": 0.25
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Encased Plutonium Cell",
+            "rate": 7.5
+          },
+          {
+            "item": "Steel Beam",
+            "rate": 4.5
+          },
+          {
+            "item": "Electromagnetic Control Rod",
+            "rate": 1.5
+          },
+          {
+            "item": "Heat Sink",
+            "rate": 2.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Plutonium Fuel Unit",
+        "products": [
+          {
+            "item": "Plutonium Fuel Rod",
+            "rate": 0.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Encased Plutonium Cell",
+            "rate": 10
+          },
+          {
+            "item": "Pressure Conversion Cube",
+            "rate": 0.5
+          }
+        ]
+      }
+    ],
+    "Plutonium Pellet": [
+      {
+        "name": "Plutonium Pellet",
+        "products": [
+          {
+            "item": "Plutonium Pellet",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Non-Fissile Uranium",
+            "rate": 100
+          },
+          {
+            "item": "Uranium Waste",
+            "rate": 25
+          }
+        ]
+      }
+    ],
+    "Plutonium Waste": [
+      {
+        "name": "Plutonium Fuel Rod (burning)",
+        "products": [
+          {
+            "item": "Plutonium Waste",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Plutonium Fuel Rod",
+            "rate": 0.1
+          },
+          {
+            "item": "Water",
+            "rate": 240
+          }
+        ]
+      }
+    ],
+    "Polymer Resin": [
+      {
+        "name": "Fuel As byproduct",
+        "products": [
+          {
+            "item": "Fuel",
+            "rate": 40
+          },
+          {
+            "item": "Polymer Resin",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Alt: Heavy Oil Residue As byproduct",
+        "products": [
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 40
+          },
+          {
+            "item": "Polymer Resin",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Alt: Polymer Resin",
+        "products": [
+          {
+            "item": "Polymer Resin",
+            "rate": 130
+          },
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Power Shard": [
+      {
+        "name": "Power Shard (1)",
+        "products": [
+          {
+            "item": "Power Shard",
+            "rate": 7.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Blue Power Slug",
+            "rate": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Power Shard (2)",
+        "products": [
+          {
+            "item": "Power Shard",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Yellow Power Slug",
+            "rate": 5
+          }
+        ]
+      },
+      {
+        "name": "Power Shard (5)",
+        "products": [
+          {
+            "item": "Power Shard",
+            "rate": 12.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Purple Power Slug",
+            "rate": 2.5
+          }
+        ]
+      },
+      {
+        "name": "Synthetic Power Shard",
+        "products": [
+          {
+            "item": "Power Shard",
+            "rate": 5
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Time Crystal",
+            "rate": 10
+          },
+          {
+            "item": "Dark Matter Crystal",
+            "rate": 10
+          },
+          {
+            "item": "Quartz Crystal",
+            "rate": 60
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Power Slug": [],
+    "Pressure Conversion Cube": [
+      {
+        "name": "Pressure Conversion Cube",
+        "products": [
+          {
+            "item": "Pressure Conversion Cube",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Fused Modular Frame",
+            "rate": 1
+          },
+          {
+            "item": "Radio Control Unit",
+            "rate": 2
+          }
+        ]
+      }
+    ],
+    "Quartz Crystal": [
+      {
+        "name": "Quartz Crystal",
+        "products": [
+          {
+            "item": "Quartz Crystal",
+            "rate": 22.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Raw Quartz",
+            "rate": 37.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Fused Quartz Crystal",
+        "products": [
+          {
+            "item": "Quartz Crystal",
+            "rate": 54
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Raw Quartz",
+            "rate": 75
+          },
+          {
+            "item": "Coal",
+            "rate": 36
+          }
+        ]
+      },
+      {
+        "name": "Alt: Pure Quartz Crystal",
+        "products": [
+          {
+            "item": "Quartz Crystal",
+            "rate": 52.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Raw Quartz",
+            "rate": 67.5
+          },
+          {
+            "item": "Water",
+            "rate": 37.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Quartz Purification",
+        "products": [
+          {
+            "item": "Quartz Crystal",
+            "rate": 75
+          },
+          {
+            "item": "Dissolved Silica",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Raw Quartz",
+            "rate": 120
+          },
+          {
+            "item": "Nitric Acid",
+            "rate": 10
+          }
+        ]
+      }
+    ],
+    "Quickwire": [
+      {
+        "name": "Quickwire",
+        "products": [
+          {
+            "item": "Quickwire",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Caterium Ingot",
+            "rate": 12
+          }
+        ]
+      },
+      {
+        "name": "Alt: Fused Quickwire",
+        "products": [
+          {
+            "item": "Quickwire",
+            "rate": 90
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Caterium Ingot",
+            "rate": 7.5
+          },
+          {
+            "item": "Copper Ingot",
+            "rate": 37.5
+          }
+        ]
+      }
+    ],
+    "Radio Control Unit": [
+      {
+        "name": "Radio Control Unit",
+        "products": [
+          {
+            "item": "Radio Control Unit",
+            "rate": 2.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Aluminum Casing",
+            "rate": 40
+          },
+          {
+            "item": "Crystal Oscillator",
+            "rate": 1.25
+          },
+          {
+            "item": "Computer",
+            "rate": 2.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Radio Connection Unit",
+        "products": [
+          {
+            "item": "Radio Control Unit",
+            "rate": 3.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Heat Sink",
+            "rate": 15
+          },
+          {
+            "item": "High-Speed Connector",
+            "rate": 7.5
+          },
+          {
+            "item": "Quartz Crystal",
+            "rate": 45
+          }
+        ]
+      },
+      {
+        "name": "Alt: Radio Control System",
+        "products": [
+          {
+            "item": "Radio Control Unit",
+            "rate": 4.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crystal Oscillator",
+            "rate": 1.5
+          },
+          {
+            "item": "Circuit Board",
+            "rate": 15
+          },
+          {
+            "item": "Aluminum Casing",
+            "rate": 90
+          },
+          {
+            "item": "Rubber",
+            "rate": 45
+          }
+        ]
+      }
+    ],
+    "Raw Quartz": [
+      {
+        "name": "Raw Quartz (Bauxite)",
+        "products": [
+          {
+            "item": "Raw Quartz",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Bauxite",
+            "rate": 100
+          }
+        ]
+      },
+      {
+        "name": "Raw Quartz (Coal)",
+        "products": [
+          {
+            "item": "Raw Quartz",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Coal",
+            "rate": 240
+          }
+        ]
+      }
+    ],
+    "Reanimated SAM": [
+      {
+        "name": "Reanimated SAM",
+        "products": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "SAM",
+            "rate": 120
+          }
+        ]
+      }
+    ],
+    "Rebar Gun": [
+      {
+        "name": "Explosive Rebar",
+        "products": [
+          {
+            "item": "Explosive Rebar",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Rebar",
+            "rate": 10
+          },
+          {
+            "item": "Smokeless Powder",
+            "rate": 10
+          },
+          {
+            "item": "Steel Pipe",
+            "rate": 10
+          }
+        ]
+      },
+      {
+        "name": "Iron Rebar",
+        "products": [
+          {
+            "item": "Iron Rebar",
+            "rate": 15
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Rod",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Rebar Gun",
+        "products": [
+          {
+            "item": "Rebar Gun",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 6
+          },
+          {
+            "item": "Iron Rod",
+            "rate": 16
+          },
+          {
+            "item": "Screws",
+            "rate": 100
+          }
+        ]
+      },
+      {
+        "name": "Shatter Rebar",
+        "products": [
+          {
+            "item": "Shatter Rebar",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Rebar",
+            "rate": 10
+          },
+          {
+            "item": "Quartz Crystal",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Stun Rebar",
+        "products": [
+          {
+            "item": "Stun Rebar",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Rebar",
+            "rate": 10
+          },
+          {
+            "item": "Quickwire",
+            "rate": 50
+          }
+        ]
+      }
+    ],
+    "Reinforced Iron Plate": [
+      {
+        "name": "Reinforced Iron Plate",
+        "products": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Plate",
+            "rate": 30
+          },
+          {
+            "item": "Screws",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Alt: Adhered Iron Plate",
+        "products": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 3.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Plate",
+            "rate": 11.25
+          },
+          {
+            "item": "Rubber",
+            "rate": 3.75
+          }
+        ]
+      },
+      {
+        "name": "Alt: Bolted Iron Plate",
+        "products": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 15
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Plate",
+            "rate": 90
+          },
+          {
+            "item": "Screws",
+            "rate": 250
+          }
+        ]
+      },
+      {
+        "name": "Alt: Stitched Iron Plate",
+        "products": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 5.625
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Plate",
+            "rate": 18.75
+          },
+          {
+            "item": "Wire",
+            "rate": 37.5
+          }
+        ]
+      }
+    ],
+    "Rifle": [
+      {
+        "name": "Homing Rifle Ammo",
+        "products": [
+          {
+            "item": "Homing Rifle Ammo",
+            "rate": 25
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Rifle Ammo",
+            "rate": 50
+          },
+          {
+            "item": "High-Speed Connector",
+            "rate": 2.5
+          }
+        ]
+      },
+      {
+        "name": "Rifle",
+        "products": [
+          {
+            "item": "Rifle",
+            "rate": 0.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Motor",
+            "rate": 1
+          },
+          {
+            "item": "Rubber",
+            "rate": 5
+          },
+          {
+            "item": "Steel Pipe",
+            "rate": 12.5
+          },
+          {
+            "item": "Screws",
+            "rate": 125
+          }
+        ]
+      },
+      {
+        "name": "Rifle Ammo",
+        "products": [
+          {
+            "item": "Rifle Ammo",
+            "rate": 75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Sheet",
+            "rate": 15
+          },
+          {
+            "item": "Smokeless Powder",
+            "rate": 10
+          }
+        ]
+      },
+      {
+        "name": "Turbo Rifle Ammo",
+        "products": [
+          {
+            "item": "Turbo Rifle Ammo",
+            "rate": 250
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Rifle Ammo",
+            "rate": 125
+          },
+          {
+            "item": "Aluminum Casing",
+            "rate": 15
+          },
+          {
+            "item": "Packaged Turbofuel",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Turbo Rifle Ammo",
+        "products": [
+          {
+            "item": "Turbo Rifle Ammo",
+            "rate": 250
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Rifle Ammo",
+            "rate": 125
+          },
+          {
+            "item": "Aluminum Casing",
+            "rate": 15
+          },
+          {
+            "item": "Turbofuel",
+            "rate": 15
+          }
+        ]
+      }
+    ],
+    "Rotor": [
+      {
+        "name": "Rotor",
+        "products": [
+          {
+            "item": "Rotor",
+            "rate": 4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Rod",
+            "rate": 20
+          },
+          {
+            "item": "Screws",
+            "rate": 100
+          }
+        ]
+      },
+      {
+        "name": "Alt: Copper Rotor",
+        "products": [
+          {
+            "item": "Rotor",
+            "rate": 11.25
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Sheet",
+            "rate": 22.5
+          },
+          {
+            "item": "Screws",
+            "rate": 195
+          }
+        ]
+      },
+      {
+        "name": "Alt: Steel Rotor",
+        "products": [
+          {
+            "item": "Rotor",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Pipe",
+            "rate": 10
+          },
+          {
+            "item": "Wire",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "Rubber": [
+      {
+        "name": "Residual Rubber",
+        "products": [
+          {
+            "item": "Rubber",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Polymer Resin",
+            "rate": 40
+          },
+          {
+            "item": "Water",
+            "rate": 40
+          }
+        ]
+      },
+      {
+        "name": "Rubber",
+        "products": [
+          {
+            "item": "Rubber",
+            "rate": 20
+          },
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Alt: Recycled Rubber",
+        "products": [
+          {
+            "item": "Rubber",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Plastic",
+            "rate": 30
+          },
+          {
+            "item": "Fuel",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "SAM": [],
+    "SAM Fluctuator": [
+      {
+        "name": "SAM Fluctuator",
+        "products": [
+          {
+            "item": "SAM Fluctuator",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 60
+          },
+          {
+            "item": "Wire",
+            "rate": 50
+          },
+          {
+            "item": "Steel Pipe",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "Screws": [
+      {
+        "name": "Screws",
+        "products": [
+          {
+            "item": "Screws",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Rod",
+            "rate": 10
+          }
+        ]
+      },
+      {
+        "name": "Alt: Cast Screws",
+        "products": [
+          {
+            "item": "Screws",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ingot",
+            "rate": 12.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Steel Screws",
+        "products": [
+          {
+            "item": "Screws",
+            "rate": 260
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Beam",
+            "rate": 5
+          }
+        ]
+      }
+    ],
+    "Silica": [
+      {
+        "name": "Alumina Solution As byproduct",
+        "products": [
+          {
+            "item": "Alumina Solution",
+            "rate": 120
+          },
+          {
+            "item": "Silica",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Bauxite",
+            "rate": 120
+          },
+          {
+            "item": "Water",
+            "rate": 180
+          }
+        ]
+      },
+      {
+        "name": "Silica",
+        "products": [
+          {
+            "item": "Silica",
+            "rate": 37.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Raw Quartz",
+            "rate": 22.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Cheap Silica",
+        "products": [
+          {
+            "item": "Silica",
+            "rate": 52.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Raw Quartz",
+            "rate": 22.5
+          },
+          {
+            "item": "Limestone",
+            "rate": 37.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Distilled Silica",
+        "products": [
+          {
+            "item": "Silica",
+            "rate": 270
+          },
+          {
+            "item": "Water",
+            "rate": 80
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Dissolved Silica",
+            "rate": 120
+          },
+          {
+            "item": "Limestone",
+            "rate": 50
+          },
+          {
+            "item": "Water",
+            "rate": 100
+          }
+        ]
+      }
+    ],
+    "Singularity Cell": [
+      {
+        "name": "Singularity Cell",
+        "products": [
+          {
+            "item": "Singularity Cell",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Nuclear Pasta",
+            "rate": 1
+          },
+          {
+            "item": "Dark Matter Crystal",
+            "rate": 20
+          },
+          {
+            "item": "Iron Plate",
+            "rate": 100
+          },
+          {
+            "item": "Concrete",
+            "rate": 200
+          }
+        ]
+      }
+    ],
+    "Smart Plating": [
+      {
+        "name": "Smart Plating",
+        "products": [
+          {
+            "item": "Smart Plating",
+            "rate": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 2
+          },
+          {
+            "item": "Rotor",
+            "rate": 2
+          }
+        ]
+      },
+      {
+        "name": "Alt: Plastic Smart Plating",
+        "products": [
+          {
+            "item": "Smart Plating",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 2.5
+          },
+          {
+            "item": "Rotor",
+            "rate": 2.5
+          },
+          {
+            "item": "Plastic",
+            "rate": 7.5
+          }
+        ]
+      }
+    ],
+    "Smokeless Powder": [
+      {
+        "name": "Smokeless Powder",
+        "products": [
+          {
+            "item": "Smokeless Powder",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Black Powder",
+            "rate": 20
+          },
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 10
+          }
+        ]
+      }
+    ],
+    "Solid Biofuel": [
+      {
+        "name": "Solid Biofuel",
+        "products": [
+          {
+            "item": "Solid Biofuel",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Biomass",
+            "rate": 120
+          }
+        ]
+      }
+    ],
+    "Somersloop": [],
+    "Stator": [
+      {
+        "name": "Stator",
+        "products": [
+          {
+            "item": "Stator",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Pipe",
+            "rate": 15
+          },
+          {
+            "item": "Wire",
+            "rate": 40
+          }
+        ]
+      },
+      {
+        "name": "Alt: Quickwire Stator",
+        "products": [
+          {
+            "item": "Stator",
+            "rate": 8
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Pipe",
+            "rate": 16
+          },
+          {
+            "item": "Quickwire",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Statues": [],
+    "Steel Beam": [
+      {
+        "name": "Steel Beam",
+        "products": [
+          {
+            "item": "Steel Beam",
+            "rate": 15
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Ingot",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Alt: Aluminum Beam",
+        "products": [
+          {
+            "item": "Steel Beam",
+            "rate": 22.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Aluminum Ingot",
+            "rate": 22.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Molded Beam",
+        "products": [
+          {
+            "item": "Steel Beam",
+            "rate": 45
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Ingot",
+            "rate": 120
+          },
+          {
+            "item": "Concrete",
+            "rate": 80
+          }
+        ]
+      }
+    ],
+    "Steel Ingot": [
+      {
+        "name": "Steel Ingot",
+        "products": [
+          {
+            "item": "Steel Ingot",
+            "rate": 45
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ore",
+            "rate": 45
+          },
+          {
+            "item": "Coal",
+            "rate": 45
+          }
+        ]
+      },
+      {
+        "name": "Alt: Coke Steel Ingot",
+        "products": [
+          {
+            "item": "Steel Ingot",
+            "rate": 100
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ore",
+            "rate": 75
+          },
+          {
+            "item": "Petroleum Coke",
+            "rate": 75
+          }
+        ]
+      },
+      {
+        "name": "Alt: Compacted Steel Ingot",
+        "products": [
+          {
+            "item": "Steel Ingot",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ore",
+            "rate": 5
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 2.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Solid Steel Ingot",
+        "products": [
+          {
+            "item": "Steel Ingot",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ingot",
+            "rate": 40
+          },
+          {
+            "item": "Coal",
+            "rate": 40
+          }
+        ]
+      }
+    ],
+    "Steel Pipe": [
+      {
+        "name": "Steel Pipe",
+        "products": [
+          {
+            "item": "Steel Pipe",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Ingot",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Alt: Iron Pipe",
+        "products": [
+          {
+            "item": "Steel Pipe",
+            "rate": 25
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ingot",
+            "rate": 100
+          }
+        ]
+      },
+      {
+        "name": "Alt: Molded Steel Pipe",
+        "products": [
+          {
+            "item": "Steel Pipe",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Steel Ingot",
+            "rate": 50
+          },
+          {
+            "item": "Concrete",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "Sulfur": [
+      {
+        "name": "Sulfur (Coal)",
+        "products": [
+          {
+            "item": "Sulfur",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Coal",
+            "rate": 200
+          }
+        ]
+      },
+      {
+        "name": "Sulfur (Iron)",
+        "products": [
+          {
+            "item": "Sulfur",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Iron Ore",
+            "rate": 300
+          }
+        ]
+      }
+    ],
+    "Supercomputer": [
+      {
+        "name": "Supercomputer",
+        "products": [
+          {
+            "item": "Supercomputer",
+            "rate": 1.875
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Computer",
+            "rate": 7.5
+          },
+          {
+            "item": "AI Limiter",
+            "rate": 3.75
+          },
+          {
+            "item": "High-Speed Connector",
+            "rate": 5.625
+          },
+          {
+            "item": "Plastic",
+            "rate": 52.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: OC Supercomputer",
+        "products": [
+          {
+            "item": "Supercomputer",
+            "rate": 3
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Radio Control Unit",
+            "rate": 6
+          },
+          {
+            "item": "Cooling System",
+            "rate": 6
+          }
+        ]
+      },
+      {
+        "name": "Alt: Super-State Computer",
+        "products": [
+          {
+            "item": "Supercomputer",
+            "rate": 2.4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Computer",
+            "rate": 7.2
+          },
+          {
+            "item": "Electromagnetic Control Rod",
+            "rate": 2.4
+          },
+          {
+            "item": "Battery",
+            "rate": 24
+          },
+          {
+            "item": "Wire",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Superposition Oscillator": [
+      {
+        "name": "Superposition Oscillator",
+        "products": [
+          {
+            "item": "Superposition Oscillator",
+            "rate": 5
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 125
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Dark Matter Crystal",
+            "rate": 30
+          },
+          {
+            "item": "Crystal Oscillator",
+            "rate": 5
+          },
+          {
+            "item": "Alclad Aluminum Sheet",
+            "rate": 45
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 125
+          }
+        ]
+      }
+    ],
+    "Thermal Propulsion Rocket": [
+      {
+        "name": "Thermal Propulsion Rocket",
+        "products": [
+          {
+            "item": "Thermal Propulsion Rocket",
+            "rate": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Modular Engine",
+            "rate": 2.5
+          },
+          {
+            "item": "Turbo Motor",
+            "rate": 1
+          },
+          {
+            "item": "Cooling System",
+            "rate": 3
+          },
+          {
+            "item": "Fused Modular Frame",
+            "rate": 1
+          }
+        ]
+      }
+    ],
+    "Time Crystal": [
+      {
+        "name": "Time Crystal",
+        "products": [
+          {
+            "item": "Time Crystal",
+            "rate": 6
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Diamonds",
+            "rate": 12
+          }
+        ]
+      }
+    ],
+    "Turbo Motor": [
+      {
+        "name": "Turbo Motor",
+        "products": [
+          {
+            "item": "Turbo Motor",
+            "rate": 1.875
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Cooling System",
+            "rate": 7.5
+          },
+          {
+            "item": "Radio Control Unit",
+            "rate": 3.75
+          },
+          {
+            "item": "Motor",
+            "rate": 7.5
+          },
+          {
+            "item": "Rubber",
+            "rate": 45
+          }
+        ]
+      },
+      {
+        "name": "Alt: Turbo Electric Motor",
+        "products": [
+          {
+            "item": "Turbo Motor",
+            "rate": 2.8125
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Motor",
+            "rate": 6.5625
+          },
+          {
+            "item": "Radio Control Unit",
+            "rate": 8.4375
+          },
+          {
+            "item": "Electromagnetic Control Rod",
+            "rate": 4.6875
+          },
+          {
+            "item": "Rotor",
+            "rate": 6.5625
+          }
+        ]
+      },
+      {
+        "name": "Alt: Turbo Pressure Motor",
+        "products": [
+          {
+            "item": "Turbo Motor",
+            "rate": 3.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Motor",
+            "rate": 7.5
+          },
+          {
+            "item": "Pressure Conversion Cube",
+            "rate": 1.875
+          },
+          {
+            "item": "Packaged Nitrogen Gas",
+            "rate": 45
+          },
+          {
+            "item": "Stator",
+            "rate": 15
+          }
+        ]
+      }
+    ],
+    "Uranium": [
+      {
+        "name": "Uranium Ore (Bauxite)",
+        "products": [
+          {
+            "item": "Uranium",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Bauxite",
+            "rate": 480
+          }
+        ]
+      }
+    ],
+    "Uranium Fuel Rod": [
+      {
+        "name": "Uranium Fuel Rod",
+        "products": [
+          {
+            "item": "Uranium Fuel Rod",
+            "rate": 0.4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Encased Uranium Cell",
+            "rate": 20
+          },
+          {
+            "item": "Encased Industrial Beam",
+            "rate": 1.2
+          },
+          {
+            "item": "Electromagnetic Control Rod",
+            "rate": 2
+          }
+        ]
+      },
+      {
+        "name": "Alt: Uranium Fuel Unit",
+        "products": [
+          {
+            "item": "Uranium Fuel Rod",
+            "rate": 0.6
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Encased Uranium Cell",
+            "rate": 20
+          },
+          {
+            "item": "Electromagnetic Control Rod",
+            "rate": 2
+          },
+          {
+            "item": "Crystal Oscillator",
+            "rate": 0.6
+          },
+          {
+            "item": "Rotor",
+            "rate": 2
+          }
+        ]
+      }
+    ],
+    "Uranium Waste": [
+      {
+        "name": "Uranium Fuel Rod (burning)",
+        "products": [
+          {
+            "item": "Uranium Waste",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Uranium Fuel Rod",
+            "rate": 0.2
+          },
+          {
+            "item": "Water",
+            "rate": 240
+          }
+        ]
+      }
+    ],
+    "Versatile Framework": [
+      {
+        "name": "Versatile Framework",
+        "products": [
+          {
+            "item": "Versatile Framework",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Modular Frame",
+            "rate": 2.5
+          },
+          {
+            "item": "Steel Beam",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Alt: Flexible Framework",
+        "products": [
+          {
+            "item": "Versatile Framework",
+            "rate": 7.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Modular Frame",
+            "rate": 3.75
+          },
+          {
+            "item": "Steel Beam",
+            "rate": 22.5
+          },
+          {
+            "item": "Rubber",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "Vines": [],
+    "Wire": [
+      {
+        "name": "Wire",
+        "products": [
+          {
+            "item": "Wire",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Ingot",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Alt: Caterium Wire",
+        "products": [
+          {
+            "item": "Wire",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Caterium Ingot",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Alt: Fused Wire",
+        "products": [
+          {
+            "item": "Wire",
+            "rate": 90
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Copper Ingot",
+            "rate": 12
+          },
+          {
+            "item": "Caterium Ingot",
+            "rate": 3
+          }
+        ]
+      },
+      {
+        "name": "Alt: Iron Wire",
+        "products": [
+          {
+            "item": "Wire",
+            "rate": 22.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Ingot",
+            "rate": 12.5
+          }
+        ]
+      }
+    ],
+    "Wood": [],
+    "Xeno-Basher": [
+      {
+        "name": "Xeno-Basher",
+        "products": [
+          {
+            "item": "Xeno-Basher",
+            "rate": 0.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Xeno-Zapper",
+            "rate": 1.5
+          },
+          {
+            "item": "Modular Frame",
+            "rate": 3.75
+          },
+          {
+            "item": "Iron Rod",
+            "rate": 18.75
+          },
+          {
+            "item": "Wire",
+            "rate": 375
+          }
+        ]
+      }
+    ],
+    "Xeno-Zapper": [
+      {
+        "name": "Xeno-Zapper",
+        "products": [
+          {
+            "item": "Xeno-Zapper",
+            "rate": 1.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Iron Rod",
+            "rate": 15
+          },
+          {
+            "item": "Reinforced Iron Plate",
+            "rate": 3
+          },
+          {
+            "item": "Cable",
+            "rate": 22.5
+          },
+          {
+            "item": "Wire",
+            "rate": 75
+          }
+        ]
+      }
+    ],
+    "Zipline": [
+      {
+        "name": "Zipline",
+        "products": [
+          {
+            "item": "Zipline",
+            "rate": 1.5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Xeno-Zapper",
+            "rate": 1.5
+          },
+          {
+            "item": "Quickwire",
+            "rate": 45
+          },
+          {
+            "item": "Iron Rod",
+            "rate": 4.5
+          },
+          {
+            "item": "Cable",
+            "rate": 15
+          }
+        ]
+      }
+    ],
+    "Dark Matter Residue": [
+      {
+        "name": "AI Expansion Server As byproduct",
+        "products": [
+          {
+            "item": "AI Expansion Server",
+            "rate": 4
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 100
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Magnetic Field Generator",
+            "rate": 4
+          },
+          {
+            "item": "Neural-Quantum Processor",
+            "rate": 4
+          },
+          {
+            "item": "Superposition Oscillator",
+            "rate": 4
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 100
+          }
+        ]
+      },
+      {
+        "name": "Alien Power Matrix As byproduct",
+        "products": [
+          {
+            "item": "Alien Power Matrix",
+            "rate": 2.5
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "SAM Fluctuator",
+            "rate": 12.5
+          },
+          {
+            "item": "Power Shard",
+            "rate": 7.5
+          },
+          {
+            "item": "Superposition Oscillator",
+            "rate": 7.5
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Dark Matter Residue",
+        "products": [
+          {
+            "item": "Dark Matter Residue",
+            "rate": 100
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 50
+          }
+        ]
+      },
+      {
+        "name": "Ficsonium Fuel Rod As byproduct",
+        "products": [
+          {
+            "item": "Ficsonium Fuel Rod",
+            "rate": 2.5
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Ficsonium",
+            "rate": 5
+          },
+          {
+            "item": "Electromagnetic Control Rod",
+            "rate": 5
+          },
+          {
+            "item": "Ficsite Trigon",
+            "rate": 100
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 50
+          }
+        ]
+      },
+      {
+        "name": "Neural-Quantum Processor As byproduct",
+        "products": [
+          {
+            "item": "Neural-Quantum Processor",
+            "rate": 3
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Time Crystal",
+            "rate": 15
+          },
+          {
+            "item": "Supercomputer",
+            "rate": 3
+          },
+          {
+            "item": "Ficsite Trigon",
+            "rate": 45
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 75
+          }
+        ]
+      },
+      {
+        "name": "Superposition Oscillator As byproduct",
+        "products": [
+          {
+            "item": "Superposition Oscillator",
+            "rate": 5
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 125
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Dark Matter Crystal",
+            "rate": 30
+          },
+          {
+            "item": "Crystal Oscillator",
+            "rate": 5
+          },
+          {
+            "item": "Alclad Aluminum Sheet",
+            "rate": 45
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 125
+          }
+        ]
+      },
+      {
+        "name": "Synthetic Power Shard As byproduct",
+        "products": [
+          {
+            "item": "Power Shard",
+            "rate": 5
+          },
+          {
+            "item": "Dark Matter Residue",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Time Crystal",
+            "rate": 10
+          },
+          {
+            "item": "Dark Matter Crystal",
+            "rate": 10
+          },
+          {
+            "item": "Quartz Crystal",
+            "rate": 60
+          },
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Excited Photonic Matter": [
+      {
+        "name": "Excited Photonic Matter",
+        "products": [
+          {
+            "item": "Excited Photonic Matter",
+            "rate": 200
+          }
+        ],
+        "ingredients": []
+      }
+    ],
+    "Ionized Fuel": [
+      {
+        "name": "Ionized Fuel",
+        "products": [
+          {
+            "item": "Ionized Fuel",
+            "rate": 40
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 5
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Rocket Fuel",
+            "rate": 40
+          },
+          {
+            "item": "Power Shard",
+            "rate": 2.5
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Ionized Fuel",
+        "products": [
+          {
+            "item": "Ionized Fuel",
+            "rate": 80
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Ionized Fuel",
+            "rate": 40
+          }
+        ]
+      },
+      {
+        "name": "Alt: Dark-Ion Fuel",
+        "products": [
+          {
+            "item": "Ionized Fuel",
+            "rate": 200
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Rocket Fuel",
+            "rate": 240
+          },
+          {
+            "item": "Dark Matter Crystal",
+            "rate": 80
+          }
+        ]
+      }
+    ],
+    "Nitrogen Gas": [
+      {
+        "name": "Nitrogen Gas (Bauxite)",
+        "products": [
+          {
+            "item": "Nitrogen Gas",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Bauxite",
+            "rate": 100
+          }
+        ]
+      },
+      {
+        "name": "Nitrogen Gas (Caterium)",
+        "products": [
+          {
+            "item": "Nitrogen Gas",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Reanimated SAM",
+            "rate": 10
+          },
+          {
+            "item": "Caterium Ore",
+            "rate": 120
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Nitrogen Gas",
+        "products": [
+          {
+            "item": "Nitrogen Gas",
+            "rate": 240
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Nitrogen Gas",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Poison Gas": [],
+    "Rocket Fuel": [
+      {
+        "name": "Rocket Fuel",
+        "products": [
+          {
+            "item": "Rocket Fuel",
+            "rate": 100
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Turbofuel",
+            "rate": 60
+          },
+          {
+            "item": "Nitric Acid",
+            "rate": 10
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Rocket Fuel",
+        "products": [
+          {
+            "item": "Rocket Fuel",
+            "rate": 120
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Rocket Fuel",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Alt: Nitro Rocket Fuel",
+        "products": [
+          {
+            "item": "Rocket Fuel",
+            "rate": 150
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 25
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Fuel",
+            "rate": 100
+          },
+          {
+            "item": "Nitrogen Gas",
+            "rate": 75
+          },
+          {
+            "item": "Sulfur",
+            "rate": 100
+          },
+          {
+            "item": "Coal",
+            "rate": 50
+          }
+        ]
+      }
+    ],
+    "Alumina Solution": [
+      {
+        "name": "Alumina Solution",
+        "products": [
+          {
+            "item": "Alumina Solution",
+            "rate": 120
+          },
+          {
+            "item": "Silica",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Bauxite",
+            "rate": 120
+          },
+          {
+            "item": "Water",
+            "rate": 180
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Alumina Solution",
+        "products": [
+          {
+            "item": "Alumina Solution",
+            "rate": 120
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Alumina Solution",
+            "rate": 120
+          }
+        ]
+      },
+      {
+        "name": "Alt: Sloppy Alumina",
+        "products": [
+          {
+            "item": "Alumina Solution",
+            "rate": 240
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Bauxite",
+            "rate": 200
+          },
+          {
+            "item": "Water",
+            "rate": 200
+          }
+        ]
+      }
+    ],
+    "Dissolved Silica": [
+      {
+        "name": "Alt: Quartz Purification As byproduct",
+        "products": [
+          {
+            "item": "Quartz Crystal",
+            "rate": 75
+          },
+          {
+            "item": "Dissolved Silica",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Raw Quartz",
+            "rate": 120
+          },
+          {
+            "item": "Nitric Acid",
+            "rate": 10
+          }
+        ]
+      }
+    ],
+    "Fuel": [
+      {
+        "name": "Fuel",
+        "products": [
+          {
+            "item": "Fuel",
+            "rate": 40
+          },
+          {
+            "item": "Polymer Resin",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Residual Fuel",
+        "products": [
+          {
+            "item": "Fuel",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Fuel",
+        "products": [
+          {
+            "item": "Fuel",
+            "rate": 60
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Fuel",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Alt: Diluted Fuel",
+        "products": [
+          {
+            "item": "Fuel",
+            "rate": 100
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 50
+          },
+          {
+            "item": "Water",
+            "rate": 100
+          }
+        ]
+      }
+    ],
+    "Heavy Oil Residue": [
+      {
+        "name": "Plastic As byproduct",
+        "products": [
+          {
+            "item": "Plastic",
+            "rate": 20
+          },
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Rubber As byproduct",
+        "products": [
+          {
+            "item": "Rubber",
+            "rate": 20
+          },
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Heavy Oil Residue",
+        "products": [
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 20
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Heavy Oil Residue",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Alt: Heavy Oil Residue",
+        "products": [
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 40
+          },
+          {
+            "item": "Polymer Resin",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 30
+          }
+        ]
+      },
+      {
+        "name": "Alt: Polymer Resin As byproduct",
+        "products": [
+          {
+            "item": "Polymer Resin",
+            "rate": 130
+          },
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Crude Oil",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Liquid Biofuel": [
+      {
+        "name": "Liquid Biofuel",
+        "products": [
+          {
+            "item": "Liquid Biofuel",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Solid Biofuel",
+            "rate": 90
+          },
+          {
+            "item": "Water",
+            "rate": 45
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Liquid Biofuel",
+        "products": [
+          {
+            "item": "Liquid Biofuel",
+            "rate": 60
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Liquid Biofuel",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Nitric Acid": [
+      {
+        "name": "Nitric Acid",
+        "products": [
+          {
+            "item": "Nitric Acid",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Nitrogen Gas",
+            "rate": 120
+          },
+          {
+            "item": "Water",
+            "rate": 30
+          },
+          {
+            "item": "Iron Plate",
+            "rate": 10
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Nitric Acid",
+        "products": [
+          {
+            "item": "Nitric Acid",
+            "rate": 20
+          },
+          {
+            "item": "Empty Fluid Tank",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Nitric Acid",
+            "rate": 20
+          }
+        ]
+      }
+    ],
+    "Sulfuric Acid": [
+      {
+        "name": "Encased Uranium Cell As byproduct",
+        "products": [
+          {
+            "item": "Encased Uranium Cell",
+            "rate": 25
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 10
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Uranium",
+            "rate": 50
+          },
+          {
+            "item": "Concrete",
+            "rate": 15
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 40
+          }
+        ]
+      },
+      {
+        "name": "Sulfuric Acid",
+        "products": [
+          {
+            "item": "Sulfuric Acid",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Sulfur",
+            "rate": 50
+          },
+          {
+            "item": "Water",
+            "rate": 50
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Sulfuric Acid",
+        "products": [
+          {
+            "item": "Sulfuric Acid",
+            "rate": 60
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 60
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Sulfuric Acid",
+            "rate": 60
+          }
+        ]
+      }
+    ],
+    "Turbofuel": [
+      {
+        "name": "Turbofuel",
+        "products": [
+          {
+            "item": "Turbofuel",
+            "rate": 18.75
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Fuel",
+            "rate": 22.5
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Turbofuel",
+        "products": [
+          {
+            "item": "Turbofuel",
+            "rate": 20
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Turbofuel",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Alt: Turbo Blend Fuel",
+        "products": [
+          {
+            "item": "Turbofuel",
+            "rate": 45
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Fuel",
+            "rate": 15
+          },
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 30
+          },
+          {
+            "item": "Sulfur",
+            "rate": 22.5
+          },
+          {
+            "item": "Petroleum Coke",
+            "rate": 22.5
+          }
+        ]
+      },
+      {
+        "name": "Alt: Turbo Heavy Fuel",
+        "products": [
+          {
+            "item": "Turbofuel",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Heavy Oil Residue",
+            "rate": 37.5
+          },
+          {
+            "item": "Compacted Coal",
+            "rate": 30
+          }
+        ]
+      }
+    ],
+    "Water": [
+      {
+        "name": "Aluminum Scrap As byproduct",
+        "products": [
+          {
+            "item": "Aluminum Scrap",
+            "rate": 360
+          },
+          {
+            "item": "Water",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Alumina Solution",
+            "rate": 240
+          },
+          {
+            "item": "Coal",
+            "rate": 120
+          }
+        ]
+      },
+      {
+        "name": "Battery As byproduct",
+        "products": [
+          {
+            "item": "Battery",
+            "rate": 20
+          },
+          {
+            "item": "Water",
+            "rate": 30
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Sulfuric Acid",
+            "rate": 50
+          },
+          {
+            "item": "Alumina Solution",
+            "rate": 40
+          },
+          {
+            "item": "Aluminum Casing",
+            "rate": 20
+          }
+        ]
+      },
+      {
+        "name": "Non-Fissile Uranium As byproduct",
+        "products": [
+          {
+            "item": "Non-Fissile Uranium",
+            "rate": 50
+          },
+          {
+            "item": "Water",
+            "rate": 15
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Uranium Waste",
+            "rate": 37.5
+          },
+          {
+            "item": "Silica",
+            "rate": 25
+          },
+          {
+            "item": "Nitric Acid",
+            "rate": 15
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 15
+          }
+        ]
+      },
+      {
+        "name": "Unpackage Water",
+        "products": [
+          {
+            "item": "Water",
+            "rate": 120
+          },
+          {
+            "item": "Empty Canister",
+            "rate": 120
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Packaged Water",
+            "rate": 120
+          }
+        ]
+      },
+      {
+        "name": "Alt: Distilled Silica As byproduct",
+        "products": [
+          {
+            "item": "Silica",
+            "rate": 270
+          },
+          {
+            "item": "Water",
+            "rate": 80
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Dissolved Silica",
+            "rate": 120
+          },
+          {
+            "item": "Limestone",
+            "rate": 50
+          },
+          {
+            "item": "Water",
+            "rate": 100
+          }
+        ]
+      },
+      {
+        "name": "Alt: Electrode Aluminum Scrap As byproduct",
+        "products": [
+          {
+            "item": "Aluminum Scrap",
+            "rate": 300
+          },
+          {
+            "item": "Water",
+            "rate": 105
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Alumina Solution",
+            "rate": 180
+          },
+          {
+            "item": "Petroleum Coke",
+            "rate": 60
+          }
+        ]
+      },
+      {
+        "name": "Alt: Fertile Uranium As byproduct",
+        "products": [
+          {
+            "item": "Non-Fissile Uranium",
+            "rate": 100
+          },
+          {
+            "item": "Water",
+            "rate": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Uranium",
+            "rate": 25
+          },
+          {
+            "item": "Uranium Waste",
+            "rate": 25
+          },
+          {
+            "item": "Nitric Acid",
+            "rate": 15
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 25
+          }
+        ]
+      },
+      {
+        "name": "Alt: Instant Scrap As byproduct",
+        "products": [
+          {
+            "item": "Aluminum Scrap",
+            "rate": 300
+          },
+          {
+            "item": "Water",
+            "rate": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "Bauxite",
+            "rate": 150
+          },
+          {
+            "item": "Coal",
+            "rate": 100
+          },
+          {
+            "item": "Sulfuric Acid",
+            "rate": 50
+          },
+          {
+            "item": "Water",
+            "rate": 60
+          }
+        ]
+      }
+    ]
+  }
+}

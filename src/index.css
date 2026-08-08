@@ -1,0 +1,61 @@
+/* Japanese-style fonts for title */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Kosugi+Maru&family=Sawarabi+Mincho&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, "Segoe UI", Roboto, sans-serif;
+  --radius-lg: 0.625rem;
+  --color-bg: #0b0c10;
+  --color-bg-card: #15171b;
+  --color-bg-panel: #1b1d23;
+  --color-border: #2e3138;
+  --color-text-primary: #e8e9ec;
+  --color-text-secondary: #9aa0a8;
+  --color-accent: #3eb5ff;
+  --color-accent-soft: #3eb5ff22;
+  --color-raw: #4ade80;
+  --color-fluid: #38bdf8;
+  --color-product: #ef4444;
+  --color-alt: #a78bfa;
+  --color-danger: #f87171;
+  --shadow-accent: 0 0 20px 6px #3eb5ff66;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-bg text-text-primary font-sans antialiased;
+  }
+  ::selection {
+    @apply bg-accent-soft text-text-primary;
+  }
+
+  /* hide number input spin buttons across browsers */
+  input[type=number].no-spin::-webkit-outer-spin-button,
+  input[type=number].no-spin::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  input[type=number].no-spin {
+    -moz-appearance: textfield;
+  }
+}
+
+/* React Flow default edge styling for the dark theme */
+@layer components {
+  .react-flow__edge-path {
+    stroke: #4a505b;
+  }
+  .react-flow__edge-text__label {
+    fill: #9aa0a8;
+  }
+  .react-flow__minimap-mask {
+    fill: #0b0c10;
+  }
+  .react-flow__minimap-node {
+    /* leave node fill unset so `MiniMap.nodeColor` controls each node's color */
+  }
+}
