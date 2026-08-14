@@ -1,6 +1,6 @@
 import data from './gameData.json';
-import recipesFile1 from '../../tools/recipes_1.json';
-import recipesFile075 from '../../tools/recipes_0_75.json';
+import recipesFile1 from './recipes_1.json';
+import recipesFile075 from './recipes_0_75.json';
 import type { GameData, Item, Building, Recipe } from './types';
 
 const typed = data as GameData;
